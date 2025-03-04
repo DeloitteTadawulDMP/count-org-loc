@@ -1,4 +1,4 @@
-name: cloc
+name: run
 on:
   push: {}
   workflow_dispatch: 
